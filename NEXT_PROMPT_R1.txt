@@ -1,0 +1,1 @@
+第二轮反馈：R1 跑起来直接白屏，浏览器控制台报错 `<A> and 'use' router primitives can be only used inside a Route.`（@solidjs/router 0.13+ 抛出的硬错）。看截图整页就是白底，没有任何侧边栏、课程表、Home 卡片。检查修复一下。
